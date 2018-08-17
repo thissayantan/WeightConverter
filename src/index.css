@@ -1,0 +1,12 @@
+body {
+  margin-top: 70px;
+}
+
+#output {
+  color: #fff;
+}
+
+.dark {
+  background: #333;
+  color: #fff;
+}
